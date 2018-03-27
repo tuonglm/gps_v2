@@ -1,0 +1,8 @@
+{
+  "name": "gps_v2",
+  "app_id": "dba8249a",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
